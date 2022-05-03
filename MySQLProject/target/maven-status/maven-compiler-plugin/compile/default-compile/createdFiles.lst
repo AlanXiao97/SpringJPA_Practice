@@ -1,0 +1,5 @@
+com\example\MySQLProject\Service.class
+com\example\MySQLProject\Controller.class
+com\example\MySQLProject\MySqlProjectApplication.class
+com\example\MySQLProject\Record.class
+com\example\MySQLProject\record_repository.class
